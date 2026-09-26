@@ -31,9 +31,9 @@ This is a **PBL4 (Project-Based Learning 4)** project. It implements a three-pha
 
 | Description | Image                             |
 |-------------|-----------------------------------|
-| Schematic   | ![Schematic](img/schematic.png)   |
-| PCB layout  | ![PCB Layout](img/pcb_layout.png) |
-| 3D render   | **Top:**<br>![3D Top](img/3d_top.png)<br>**Bottom:**<br>![3D Bottom](img/3d_bottom.png) |
+| Schematic   | ![Schematic](Img/schematic.png)   |
+| PCB layout  | ![PCB Layout](Img/pcb_layout.png) |
+| 3D render   | **Top:**<br>![3D Top](Img/3d_top.png)<br>**Bottom:**<br>![3D Bottom](Img/3d_bottom.png) |
 
 **Disclaimer:** The above drawings and designs are for reference purposes only. During actual construction and assembly, parameters, components, or circuit layouts may be adjusted as necessary.
 
@@ -41,7 +41,7 @@ This is a **PBL4 (Project-Based Learning 4)** project. It implements a three-pha
 
 ```
 SVPWM/
-├── img/                    # Image for README
+├── Img/                    # Image for README
 ├── delay.c / delay.h
 ├── gpio_driver.c / .h
 ├── main.c                  # GPIO/TIM1 configuration, main
