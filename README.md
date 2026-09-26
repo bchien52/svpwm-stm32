@@ -134,8 +134,8 @@ Let $S = T_1 + T_2$. Then:
 $$
 (T_1, T_2, T_0) =
 \begin{cases}
-\left(\dfrac{T_1}{S},\ \dfrac{T_2}{S},\ 0\right) & \text{if } S > 1 \quad \text{(over-modulation)} \\[2mm]
-\left(T_1,\ T_2,\ 1 - T_1 - T_2\right) & \text{if } S \le 1
+\left(\frac{T_1}{S}, \frac{T_2}{S}, 0\right) & \text{if } S > 1 \quad \text{(over-modulation)} \\
+\left(T_1, T_2, 1 - T_1 - T_2\right) & \text{if } S \le 1
 \end{cases}
 $$
 
