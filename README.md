@@ -1,9 +1,8 @@
-
 <h1 align="center">SVPWM Implementation on STM32F103</h1>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xKNJFl4AInI" target="_blank">
-    <img src="img/thumbnail.jpg" alt="Thumbnail" width="600" />
+    <img src="https://img.youtube.com/vi/xKNJFl4AInI/maxresdefault.jpg" alt="Thumbnail" width="600" />
   </a>
   <p><em>You can click through the thumbnail or the link below to watch the demo:</em></p>
   <p><em><a href="https://www.youtube.com/watch?v=xKNJFl4AInI">https://www.youtube.com/watch?v=xKNJFl4AInI</a></em></p>
@@ -32,7 +31,7 @@ This is a **PBL4 (Project-Based Learning 4)** project. It implements a three-pha
 
 | Description | Image                             |
 |-------------|-----------------------------------|
-| Schematic   | ![Schematic](Img/schematic.png)   |
+| Schematic   | ![Schematic](img/schematic.png)   |
 | PCB layout  | ![PCB Layout](img/pcb_layout.png) |
 | 3D render   | **Top:**<br>![3D Top](img/3d_top.png)<br>**Bottom:**<br>![3D Bottom](img/3d_bottom.png) |
 
@@ -42,7 +41,7 @@ This is a **PBL4 (Project-Based Learning 4)** project. It implements a three-pha
 
 ```
 SVPWM/
-├── Img/                    # Image for README
+├── img/                    # Image for README
 ├── delay.c / delay.h
 ├── gpio_driver.c / .h
 ├── main.c                  # GPIO/TIM1 configuration, main
