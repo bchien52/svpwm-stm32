@@ -33,7 +33,7 @@ void GPIO_Config(void)
 	AFIO->MAPR &= ~AFIO_MAPR_TIM1_REMAP;
 	AFIO->MAPR |=  AFIO_MAPR_TIM1_REMAP_0;
 
-  // High side
+    // High side
 	gpio_init(GPIOA, 8, GPIO_MODE_OUTPUT_50M, GPIO_CNF_AF_PP);
 	gpio_init(GPIOA, 9, GPIO_MODE_OUTPUT_50M, GPIO_CNF_AF_PP);
 	gpio_init(GPIOA, 10, GPIO_MODE_OUTPUT_50M, GPIO_CNF_AF_PP);
