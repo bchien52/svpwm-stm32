@@ -63,7 +63,7 @@ V_\beta &= V_d \sin\theta + V_q \cos\theta
 \end{aligned}
 $$
 
-This rotates the voltage vector from the synchronously-rotating $d$-$q$ frame into the stationary $\alpha$-$\beta$ frame, using the instantaneous electrical angle $\theta$.
+This rotates the voltage vector from the synchronously-rotating $d-q$ frame into the stationary $\alpha-beta$ frame, using the instantaneous electrical angle $\theta$.
 
 ### Step 2 - Modified Inverse Clarke: $(V_\alpha, V_\beta) \rightarrow$ three reference axes
 
